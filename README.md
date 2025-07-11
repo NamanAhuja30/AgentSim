@@ -1,4 +1,4 @@
-Absolutely! Here's the full **copy-paste-ready `README.md`** for your AgentSim project:
+
 
 ---
 

@@ -1,0 +1,9 @@
+fastapi==0.116.0
+uvicorn==0.35.0
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-text-splitters==0.3.8
+langsmith==0.4.5
+redis==6.2.0
+python-dotenv>=1.0.1
+openai>=1.30.1
